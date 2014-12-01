@@ -20,6 +20,13 @@ namespace DemoVSwithGIT
             Console.WriteLine("Hello Thia is Demo Display Functiion..");
             Console.WriteLine("Hello Thia is Demo Display Functiion..");
             Console.WriteLine("Hello");
+
+
+        }
+
+        public static void DisplayMsg()
+        {
+            Console.WriteLine("how is this possoble..?");
         }
     }
 }
